@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9767964E-06D0-432C-B454-72A2868686F8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SuperCard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6670F973-3CB3-4662-A732-2C1503F660BD</key>
+		<string>ssh://github.com/vibinnair/Stanford_Fall_2013_2014.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SuperCard/SuperCard.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6670F973-3CB3-4662-A732-2C1503F660BD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/vibinnair/Stanford_Fall_2013_2014.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6670F973-3CB3-4662-A732-2C1503F660BD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6670F973-3CB3-4662-A732-2C1503F660BD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Stanford_Fall_2013_2014</string>
+		</dict>
+	</array>
+</dict>
+</plist>
