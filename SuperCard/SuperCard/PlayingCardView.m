@@ -61,6 +61,10 @@
      [[UIColor whiteColor] setFill];
      
      UIRectFill(self.bounds);
+     
+     // Draw a black outline;
+     [[UIColor blackColor] setStroke];
+     [roundedRect stroke];
  }
 
 
